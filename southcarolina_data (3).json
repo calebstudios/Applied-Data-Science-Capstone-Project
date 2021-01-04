@@ -1,0 +1,3740 @@
+[
+    {
+        "ZIP Code": "29001",
+        "City": "Alcolu",
+        "County": "Clarendon",
+        "Latitude": "33.76993",
+        "Longitude": "-80.17278"
+    },
+    {
+        "ZIP Code": "29002",
+        "City": "Ballentine",
+        "County": "Richland",
+        "Latitude": "34.126535",
+        "Longitude": "-81.234811"
+    },
+    {
+        "ZIP Code": "29003",
+        "City": "Bamberg",
+        "County": "Bamberg",
+        "Latitude": "33.272026",
+        "Longitude": "-81.03203"
+    },
+    {
+        "ZIP Code": "29006",
+        "City": "Batesburg",
+        "County": "Lexington",
+        "Latitude": "33.872503",
+        "Longitude": "-81.55245"
+    },
+    {
+        "ZIP Code": "29009",
+        "City": "Bethune",
+        "County": "Kershaw",
+        "Latitude": "34.422793",
+        "Longitude": "-80.36129"
+    },
+    {
+        "ZIP Code": "29010",
+        "City": "Bishopville",
+        "County": "Lee",
+        "Latitude": "34.213582",
+        "Longitude": "-80.26083"
+    },
+    {
+        "ZIP Code": "29014",
+        "City": "Blackstock",
+        "County": "Chester",
+        "Latitude": "34.552119",
+        "Longitude": "-81.13542"
+    },
+    {
+        "ZIP Code": "29015",
+        "City": "Blair",
+        "County": "Fairfield",
+        "Latitude": "34.428673",
+        "Longitude": "-81.35898"
+    },
+    {
+        "ZIP Code": "29016",
+        "City": "Blythewood",
+        "County": "Richland",
+        "Latitude": "34.200042",
+        "Longitude": "-80.98653"
+    },
+    {
+        "ZIP Code": "29018",
+        "City": "Bowman",
+        "County": "Orangeburg",
+        "Latitude": "33.354403",
+        "Longitude": "-80.65134"
+    },
+    {
+        "ZIP Code": "29020",
+        "City": "Camden",
+        "County": "Kershaw",
+        "Latitude": "34.278935",
+        "Longitude": "-80.59142"
+    },
+    {
+        "ZIP Code": "29021",
+        "City": "Camden",
+        "County": "Kershaw",
+        "Latitude": "34.56",
+        "Longitude": "-80.58"
+    },
+    {
+        "ZIP Code": "29030",
+        "City": "Cameron",
+        "County": "Calhoun",
+        "Latitude": "33.572356",
+        "Longitude": "-80.67158"
+    },
+    {
+        "ZIP Code": "29031",
+        "City": "Carlisle",
+        "County": "Union",
+        "Latitude": "34.603967",
+        "Longitude": "-81.4496"
+    },
+    {
+        "ZIP Code": "29032",
+        "City": "Cassatt",
+        "County": "Kershaw",
+        "Latitude": "34.349725",
+        "Longitude": "-80.48117"
+    },
+    {
+        "ZIP Code": "29033",
+        "City": "Cayce",
+        "County": "Lexington",
+        "Latitude": "33.964753",
+        "Longitude": "-81.06618"
+    },
+    {
+        "ZIP Code": "29036",
+        "City": "Chapin",
+        "County": "Lexington",
+        "Latitude": "34.128998",
+        "Longitude": "-81.33822"
+    },
+    {
+        "ZIP Code": "29037",
+        "City": "Chappells",
+        "County": "Newberry",
+        "Latitude": "34.188584",
+        "Longitude": "-81.87043"
+    },
+    {
+        "ZIP Code": "29038",
+        "City": "Cope",
+        "County": "Orangeburg",
+        "Latitude": "33.372063",
+        "Longitude": "-80.98409"
+    },
+    {
+        "ZIP Code": "29039",
+        "City": "Cordova",
+        "County": "Orangeburg",
+        "Latitude": "33.425547",
+        "Longitude": "-80.90083"
+    },
+    {
+        "ZIP Code": "29040",
+        "City": "Dalzell",
+        "County": "Sumter",
+        "Latitude": "34.029407",
+        "Longitude": "-80.44405"
+    },
+    {
+        "ZIP Code": "29041",
+        "City": "Davis Station",
+        "County": "Clarendon",
+        "Latitude": "33.688373",
+        "Longitude": "-80.208109"
+    },
+    {
+        "ZIP Code": "29042",
+        "City": "Denmark",
+        "County": "Bamberg",
+        "Latitude": "33.321406",
+        "Longitude": "-81.14318"
+    },
+    {
+        "ZIP Code": "29044",
+        "City": "Eastover",
+        "County": "Richland",
+        "Latitude": "33.911025",
+        "Longitude": "-80.70157"
+    },
+    {
+        "ZIP Code": "29045",
+        "City": "Elgin",
+        "County": "Kershaw",
+        "Latitude": "34.1699",
+        "Longitude": "-80.81448"
+    },
+    {
+        "ZIP Code": "29046",
+        "City": "Elliott",
+        "County": "Lee",
+        "Latitude": "34.107967",
+        "Longitude": "-80.161"
+    },
+    {
+        "ZIP Code": "29047",
+        "City": "Elloree",
+        "County": "Orangeburg",
+        "Latitude": "33.52803",
+        "Longitude": "-80.58127"
+    },
+    {
+        "ZIP Code": "29048",
+        "City": "Eutawville",
+        "County": "Orangeburg",
+        "Latitude": "33.399511",
+        "Longitude": "-80.32069"
+    },
+    {
+        "ZIP Code": "29051",
+        "City": "Gable",
+        "County": "Clarendon",
+        "Latitude": "33.845399",
+        "Longitude": "-80.13052"
+    },
+    {
+        "ZIP Code": "29052",
+        "City": "Gadsden",
+        "County": "Richland",
+        "Latitude": "33.839441",
+        "Longitude": "-80.74802"
+    },
+    {
+        "ZIP Code": "29053",
+        "City": "Gaston",
+        "County": "Lexington",
+        "Latitude": "33.830405",
+        "Longitude": "-81.09219"
+    },
+    {
+        "ZIP Code": "29054",
+        "City": "Gilbert",
+        "County": "Lexington",
+        "Latitude": "33.947764",
+        "Longitude": "-81.3823"
+    },
+    {
+        "ZIP Code": "29055",
+        "City": "Great Falls",
+        "County": "Chester",
+        "Latitude": "34.569908",
+        "Longitude": "-80.90972"
+    },
+    {
+        "ZIP Code": "29056",
+        "City": "Greeleyville",
+        "County": "Williamsburg",
+        "Latitude": "33.634675",
+        "Longitude": "-79.99205"
+    },
+    {
+        "ZIP Code": "29058",
+        "City": "Heath Springs",
+        "County": "Lancaster",
+        "Latitude": "34.588329",
+        "Longitude": "-80.70107"
+    },
+    {
+        "ZIP Code": "29059",
+        "City": "Holly Hill",
+        "County": "Orangeburg",
+        "Latitude": "33.332666",
+        "Longitude": "-80.42251"
+    },
+    {
+        "ZIP Code": "29061",
+        "City": "Hopkins",
+        "County": "Richland",
+        "Latitude": "33.920721",
+        "Longitude": "-80.84535"
+    },
+    {
+        "ZIP Code": "29062",
+        "City": "Horatio",
+        "County": "Sumter",
+        "Latitude": "34.020978",
+        "Longitude": "-80.56786"
+    },
+    {
+        "ZIP Code": "29063",
+        "City": "Irmo",
+        "County": "Richland",
+        "Latitude": "34.120487",
+        "Longitude": "-81.19686"
+    },
+    {
+        "ZIP Code": "29065",
+        "City": "Jenkinsville",
+        "County": "Fairfield",
+        "Latitude": "34.295632",
+        "Longitude": "-81.30068"
+    },
+    {
+        "ZIP Code": "29067",
+        "City": "Kershaw",
+        "County": "Lancaster",
+        "Latitude": "34.545825",
+        "Longitude": "-80.54807"
+    },
+    {
+        "ZIP Code": "29069",
+        "City": "Lamar",
+        "County": "Darlington",
+        "Latitude": "34.183978",
+        "Longitude": "-80.07629"
+    },
+    {
+        "ZIP Code": "29070",
+        "City": "Leesville",
+        "County": "Lexington",
+        "Latitude": "33.931279",
+        "Longitude": "-81.465"
+    },
+    {
+        "ZIP Code": "29071",
+        "City": "Lexington",
+        "County": "Lexington",
+        "Latitude": "33.925183",
+        "Longitude": "-81.248345"
+    },
+    {
+        "ZIP Code": "29072",
+        "City": "Lexington",
+        "County": "Lexington",
+        "Latitude": "33.991362",
+        "Longitude": "-81.25047"
+    },
+    {
+        "ZIP Code": "29073",
+        "City": "Lexington",
+        "County": "Lexington",
+        "Latitude": "33.917812",
+        "Longitude": "-81.21854"
+    },
+    {
+        "ZIP Code": "29074",
+        "City": "Liberty Hill",
+        "County": "Kershaw",
+        "Latitude": "34.450789",
+        "Longitude": "-80.79844"
+    },
+    {
+        "ZIP Code": "29075",
+        "City": "Little Mountain",
+        "County": "Newberry",
+        "Latitude": "34.194914",
+        "Longitude": "-81.39016"
+    },
+    {
+        "ZIP Code": "29078",
+        "City": "Lugoff",
+        "County": "Kershaw",
+        "Latitude": "34.204467",
+        "Longitude": "-80.70776"
+    },
+    {
+        "ZIP Code": "29079",
+        "City": "Lydia",
+        "County": "Darlington",
+        "Latitude": "34.296064",
+        "Longitude": "-80.11319"
+    },
+    {
+        "ZIP Code": "29080",
+        "City": "Lynchburg",
+        "County": "Lee",
+        "Latitude": "34.007854",
+        "Longitude": "-80.0675"
+    },
+    {
+        "ZIP Code": "29081",
+        "City": "Ehrhardt",
+        "County": "Bamberg",
+        "Latitude": "33.094711",
+        "Longitude": "-81.04345"
+    },
+    {
+        "ZIP Code": "29082",
+        "City": "Lodge",
+        "County": "Colleton",
+        "Latitude": "33.040507",
+        "Longitude": "-80.95448"
+    },
+    {
+        "ZIP Code": "29101",
+        "City": "Mc Bee",
+        "County": "Chesterfield",
+        "Latitude": "34.461353",
+        "Longitude": "-80.2506"
+    },
+    {
+        "ZIP Code": "29102",
+        "City": "Manning",
+        "County": "Clarendon",
+        "Latitude": "33.647611",
+        "Longitude": "-80.21281"
+    },
+    {
+        "ZIP Code": "29104",
+        "City": "Mayesville",
+        "County": "Sumter",
+        "Latitude": "34.000732",
+        "Longitude": "-80.2136"
+    },
+    {
+        "ZIP Code": "29105",
+        "City": "Monetta",
+        "County": "Aiken",
+        "Latitude": "33.831118",
+        "Longitude": "-81.59772"
+    },
+    {
+        "ZIP Code": "29107",
+        "City": "Neeses",
+        "County": "Orangeburg",
+        "Latitude": "33.532767",
+        "Longitude": "-81.12298"
+    },
+    {
+        "ZIP Code": "29108",
+        "City": "Newberry",
+        "County": "Newberry",
+        "Latitude": "34.282877",
+        "Longitude": "-81.61641"
+    },
+    {
+        "ZIP Code": "29111",
+        "City": "New Zion",
+        "County": "Clarendon",
+        "Latitude": "33.795243",
+        "Longitude": "-80.04196"
+    },
+    {
+        "ZIP Code": "29112",
+        "City": "North",
+        "County": "Orangeburg",
+        "Latitude": "33.629017",
+        "Longitude": "-81.09763"
+    },
+    {
+        "ZIP Code": "29113",
+        "City": "Norway",
+        "County": "Orangeburg",
+        "Latitude": "33.445032",
+        "Longitude": "-81.12334"
+    },
+    {
+        "ZIP Code": "29114",
+        "City": "Olanta",
+        "County": "Florence",
+        "Latitude": "33.9413",
+        "Longitude": "-79.93219"
+    },
+    {
+        "ZIP Code": "29115",
+        "City": "Orangeburg",
+        "County": "Orangeburg",
+        "Latitude": "33.487767",
+        "Longitude": "-80.8564"
+    },
+    {
+        "ZIP Code": "29116",
+        "City": "Orangeburg",
+        "County": "Orangeburg",
+        "Latitude": "33.49593",
+        "Longitude": "-80.824603"
+    },
+    {
+        "ZIP Code": "29117",
+        "City": "Orangeburg",
+        "County": "Orangeburg",
+        "Latitude": "33.442019",
+        "Longitude": "-80.797486"
+    },
+    {
+        "ZIP Code": "29118",
+        "City": "Orangeburg",
+        "County": "Orangeburg",
+        "Latitude": "33.548282",
+        "Longitude": "-80.88513"
+    },
+    {
+        "ZIP Code": "29122",
+        "City": "Peak",
+        "County": "Newberry",
+        "Latitude": "34.242848",
+        "Longitude": "-81.32649"
+    },
+    {
+        "ZIP Code": "29123",
+        "City": "Pelion",
+        "County": "Lexington",
+        "Latitude": "33.771358",
+        "Longitude": "-81.25987"
+    },
+    {
+        "ZIP Code": "29125",
+        "City": "Pinewood",
+        "County": "Sumter",
+        "Latitude": "33.71469",
+        "Longitude": "-80.4548"
+    },
+    {
+        "ZIP Code": "29126",
+        "City": "Pomaria",
+        "County": "Newberry",
+        "Latitude": "34.305501",
+        "Longitude": "-81.4218"
+    },
+    {
+        "ZIP Code": "29127",
+        "City": "Prosperity",
+        "County": "Newberry",
+        "Latitude": "34.14854",
+        "Longitude": "-81.511"
+    },
+    {
+        "ZIP Code": "29128",
+        "City": "Rembert",
+        "County": "Sumter",
+        "Latitude": "34.094472",
+        "Longitude": "-80.54447"
+    },
+    {
+        "ZIP Code": "29129",
+        "City": "Ridge Spring",
+        "County": "Saluda",
+        "Latitude": "33.804368",
+        "Longitude": "-81.65577"
+    },
+    {
+        "ZIP Code": "29130",
+        "City": "Ridgeway",
+        "County": "Fairfield",
+        "Latitude": "34.328826",
+        "Longitude": "-80.88762"
+    },
+    {
+        "ZIP Code": "29132",
+        "City": "Rion",
+        "County": "Fairfield",
+        "Latitude": "34.309957",
+        "Longitude": "-81.12724"
+    },
+    {
+        "ZIP Code": "29133",
+        "City": "Rowesville",
+        "County": "Orangeburg",
+        "Latitude": "33.37731",
+        "Longitude": "-80.81601"
+    },
+    {
+        "ZIP Code": "29135",
+        "City": "Saint Matthews",
+        "County": "Calhoun",
+        "Latitude": "33.675533",
+        "Longitude": "-80.79563"
+    },
+    {
+        "ZIP Code": "29137",
+        "City": "Salley",
+        "County": "Aiken",
+        "Latitude": "33.593634",
+        "Longitude": "-81.32226"
+    },
+    {
+        "ZIP Code": "29138",
+        "City": "Saluda",
+        "County": "Saluda",
+        "Latitude": "34.029635",
+        "Longitude": "-81.77579"
+    },
+    {
+        "ZIP Code": "29142",
+        "City": "Santee",
+        "County": "Orangeburg",
+        "Latitude": "33.462378",
+        "Longitude": "-80.50903"
+    },
+    {
+        "ZIP Code": "29143",
+        "City": "Sardinia",
+        "County": "Clarendon",
+        "Latitude": "33.688373",
+        "Longitude": "-80.208109"
+    },
+    {
+        "ZIP Code": "29145",
+        "City": "Silverstreet",
+        "County": "Newberry",
+        "Latitude": "34.215881",
+        "Longitude": "-81.75318"
+    },
+    {
+        "ZIP Code": "29146",
+        "City": "Springfield",
+        "County": "Orangeburg",
+        "Latitude": "33.506999",
+        "Longitude": "-81.28947"
+    },
+    {
+        "ZIP Code": "29147",
+        "City": "State Park",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29148",
+        "City": "Summerton",
+        "County": "Clarendon",
+        "Latitude": "33.570595",
+        "Longitude": "-80.33969"
+    },
+    {
+        "ZIP Code": "29150",
+        "City": "Sumter",
+        "County": "Sumter",
+        "Latitude": "33.916418",
+        "Longitude": "-80.35738"
+    },
+    {
+        "ZIP Code": "29151",
+        "City": "Sumter",
+        "County": "Sumter",
+        "Latitude": "33.899856",
+        "Longitude": "-80.37434"
+    },
+    {
+        "ZIP Code": "29152",
+        "City": "Shaw AFB",
+        "County": "Sumter",
+        "Latitude": "33.972863",
+        "Longitude": "-80.46534"
+    },
+    {
+        "ZIP Code": "29153",
+        "City": "Sumter",
+        "County": "Sumter",
+        "Latitude": "33.948928",
+        "Longitude": "-80.32025"
+    },
+    {
+        "ZIP Code": "29154",
+        "City": "Sumter",
+        "County": "Sumter",
+        "Latitude": "33.899155",
+        "Longitude": "-80.43433"
+    },
+    {
+        "ZIP Code": "29160",
+        "City": "Swansea",
+        "County": "Lexington",
+        "Latitude": "33.734171",
+        "Longitude": "-81.07563"
+    },
+    {
+        "ZIP Code": "29161",
+        "City": "Timmonsville",
+        "County": "Florence",
+        "Latitude": "34.115691",
+        "Longitude": "-79.94482"
+    },
+    {
+        "ZIP Code": "29162",
+        "City": "Turbeville",
+        "County": "Clarendon",
+        "Latitude": "33.88759",
+        "Longitude": "-80.01013"
+    },
+    {
+        "ZIP Code": "29163",
+        "City": "Vance",
+        "County": "Orangeburg",
+        "Latitude": "33.434712",
+        "Longitude": "-80.43046"
+    },
+    {
+        "ZIP Code": "29164",
+        "City": "Wagener",
+        "County": "Aiken",
+        "Latitude": "33.659078",
+        "Longitude": "-81.40845"
+    },
+    {
+        "ZIP Code": "29166",
+        "City": "Ward",
+        "County": "Saluda",
+        "Latitude": "33.90529",
+        "Longitude": "-81.70607"
+    },
+    {
+        "ZIP Code": "29168",
+        "City": "Wedgefield",
+        "County": "Sumter",
+        "Latitude": "33.881986",
+        "Longitude": "-80.50487"
+    },
+    {
+        "ZIP Code": "29169",
+        "City": "West Columbia",
+        "County": "Lexington",
+        "Latitude": "33.990952",
+        "Longitude": "-81.08956"
+    },
+    {
+        "ZIP Code": "29170",
+        "City": "West Columbia",
+        "County": "Lexington",
+        "Latitude": "33.943251",
+        "Longitude": "-81.14142"
+    },
+    {
+        "ZIP Code": "29171",
+        "City": "West Columbia",
+        "County": "Lexington",
+        "Latitude": "33.925183",
+        "Longitude": "-81.248345"
+    },
+    {
+        "ZIP Code": "29172",
+        "City": "West Columbia",
+        "County": "Lexington",
+        "Latitude": "33.902216",
+        "Longitude": "-81.08256"
+    },
+    {
+        "ZIP Code": "29175",
+        "City": "Westville",
+        "County": "Kershaw",
+        "Latitude": "34.443733",
+        "Longitude": "-80.60138"
+    },
+    {
+        "ZIP Code": "29177",
+        "City": "White Rock",
+        "County": "Richland",
+        "Latitude": "34.143934",
+        "Longitude": "-81.27281"
+    },
+    {
+        "ZIP Code": "29178",
+        "City": "Whitmire",
+        "County": "Newberry",
+        "Latitude": "34.502577",
+        "Longitude": "-81.60777"
+    },
+    {
+        "ZIP Code": "29180",
+        "City": "Winnsboro",
+        "County": "Fairfield",
+        "Latitude": "34.369441",
+        "Longitude": "-81.08218"
+    },
+    {
+        "ZIP Code": "29201",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "33.998454",
+        "Longitude": "-81.03519"
+    },
+    {
+        "ZIP Code": "29202",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.022921",
+        "Longitude": "-81.02886"
+    },
+    {
+        "ZIP Code": "29203",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.066271",
+        "Longitude": "-81.02492"
+    },
+    {
+        "ZIP Code": "29204",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.027955",
+        "Longitude": "-81.00008"
+    },
+    {
+        "ZIP Code": "29205",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "33.990555",
+        "Longitude": "-80.99826"
+    },
+    {
+        "ZIP Code": "29206",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.037557",
+        "Longitude": "-80.96024"
+    },
+    {
+        "ZIP Code": "29207",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.021442",
+        "Longitude": "-80.94144"
+    },
+    {
+        "ZIP Code": "29208",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "33.993705",
+        "Longitude": "-81.019913"
+    },
+    {
+        "ZIP Code": "29209",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "33.968011",
+        "Longitude": "-80.93844"
+    },
+    {
+        "ZIP Code": "29210",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.041646",
+        "Longitude": "-81.10624"
+    },
+    {
+        "ZIP Code": "29211",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.096716",
+        "Longitude": "-80.922338"
+    },
+    {
+        "ZIP Code": "29212",
+        "City": "Columbia",
+        "County": "Lexington",
+        "Latitude": "34.075611",
+        "Longitude": "-81.17611"
+    },
+    {
+        "ZIP Code": "29214",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29215",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29216",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29217",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29218",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29219",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29220",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29221",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29222",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29223",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.084069",
+        "Longitude": "-80.93286"
+    },
+    {
+        "ZIP Code": "29224",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29225",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29226",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29227",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29228",
+        "City": "Columbia",
+        "County": "Lexington",
+        "Latitude": "33.925183",
+        "Longitude": "-81.248345"
+    },
+    {
+        "ZIP Code": "29229",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.139511",
+        "Longitude": "-80.88783"
+    },
+    {
+        "ZIP Code": "29230",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.107483",
+        "Longitude": "-81.062623"
+    },
+    {
+        "ZIP Code": "29240",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29250",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29260",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29290",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29292",
+        "City": "Columbia",
+        "County": "Richland",
+        "Latitude": "34.005992",
+        "Longitude": "-80.970766"
+    },
+    {
+        "ZIP Code": "29301",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.940921",
+        "Longitude": "-81.98682"
+    },
+    {
+        "ZIP Code": "29302",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.926075",
+        "Longitude": "-81.87919"
+    },
+    {
+        "ZIP Code": "29303",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.980636",
+        "Longitude": "-81.95665"
+    },
+    {
+        "ZIP Code": "29304",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.916625",
+        "Longitude": "-81.863874"
+    },
+    {
+        "ZIP Code": "29305",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "35.111404",
+        "Longitude": "-82.105503"
+    },
+    {
+        "ZIP Code": "29306",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.925353",
+        "Longitude": "-81.9308"
+    },
+    {
+        "ZIP Code": "29307",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.982424",
+        "Longitude": "-81.85729"
+    },
+    {
+        "ZIP Code": "29316",
+        "City": "Boiling Springs",
+        "County": "Spartanburg",
+        "Latitude": "35.033903",
+        "Longitude": "-81.97413"
+    },
+    {
+        "ZIP Code": "29319",
+        "City": "Spartanburg",
+        "County": "Spartanburg",
+        "Latitude": "34.888237",
+        "Longitude": "-81.96902"
+    },
+    {
+        "ZIP Code": "29320",
+        "City": "Arcadia",
+        "County": "Spartanburg",
+        "Latitude": "34.957898",
+        "Longitude": "-81.99252"
+    },
+    {
+        "ZIP Code": "29321",
+        "City": "Buffalo",
+        "County": "Union",
+        "Latitude": "34.715641",
+        "Longitude": "-81.71187"
+    },
+    {
+        "ZIP Code": "29322",
+        "City": "Campobello",
+        "County": "Spartanburg",
+        "Latitude": "35.109207",
+        "Longitude": "-82.141"
+    },
+    {
+        "ZIP Code": "29323",
+        "City": "Chesnee",
+        "County": "Spartanburg",
+        "Latitude": "35.131971",
+        "Longitude": "-81.88553"
+    },
+    {
+        "ZIP Code": "29324",
+        "City": "Clifton",
+        "County": "Spartanburg",
+        "Latitude": "34.99056",
+        "Longitude": "-81.83271"
+    },
+    {
+        "ZIP Code": "29325",
+        "City": "Clinton",
+        "County": "Laurens",
+        "Latitude": "34.470115",
+        "Longitude": "-81.86761"
+    },
+    {
+        "ZIP Code": "29329",
+        "City": "Converse",
+        "County": "Spartanburg",
+        "Latitude": "35.001748",
+        "Longitude": "-81.832999"
+    },
+    {
+        "ZIP Code": "29330",
+        "City": "Cowpens",
+        "County": "Spartanburg",
+        "Latitude": "35.043505",
+        "Longitude": "-81.81026"
+    },
+    {
+        "ZIP Code": "29331",
+        "City": "Cross Anchor",
+        "County": "Spartanburg",
+        "Latitude": "34.638315",
+        "Longitude": "-81.856745"
+    },
+    {
+        "ZIP Code": "29332",
+        "City": "Cross Hill",
+        "County": "Laurens",
+        "Latitude": "34.270774",
+        "Longitude": "-81.98276"
+    },
+    {
+        "ZIP Code": "29333",
+        "City": "Drayton",
+        "County": "Spartanburg",
+        "Latitude": "34.968472",
+        "Longitude": "-81.906376"
+    },
+    {
+        "ZIP Code": "29334",
+        "City": "Duncan",
+        "County": "Spartanburg",
+        "Latitude": "34.915071",
+        "Longitude": "-82.13322"
+    },
+    {
+        "ZIP Code": "29335",
+        "City": "Enoree",
+        "County": "Spartanburg",
+        "Latitude": "34.660137",
+        "Longitude": "-81.90924"
+    },
+    {
+        "ZIP Code": "29336",
+        "City": "Fairforest",
+        "County": "Spartanburg",
+        "Latitude": "34.888237",
+        "Longitude": "-81.96902"
+    },
+    {
+        "ZIP Code": "29338",
+        "City": "Fingerville",
+        "County": "Spartanburg",
+        "Latitude": "35.136333",
+        "Longitude": "-82.00328"
+    },
+    {
+        "ZIP Code": "29340",
+        "City": "Gaffney",
+        "County": "Cherokee",
+        "Latitude": "35.03653",
+        "Longitude": "-81.62497"
+    },
+    {
+        "ZIP Code": "29341",
+        "City": "Gaffney",
+        "County": "Cherokee",
+        "Latitude": "35.10425",
+        "Longitude": "-81.69232"
+    },
+    {
+        "ZIP Code": "29342",
+        "City": "Gaffney",
+        "County": "Cherokee",
+        "Latitude": "34.996314",
+        "Longitude": "-81.652395"
+    },
+    {
+        "ZIP Code": "29346",
+        "City": "Glendale",
+        "County": "Spartanburg",
+        "Latitude": "35.044719",
+        "Longitude": "-81.977324"
+    },
+    {
+        "ZIP Code": "29348",
+        "City": "Gramling",
+        "County": "Spartanburg",
+        "Latitude": "34.888237",
+        "Longitude": "-81.96902"
+    },
+    {
+        "ZIP Code": "29349",
+        "City": "Inman",
+        "County": "Spartanburg",
+        "Latitude": "35.061431",
+        "Longitude": "-82.07523"
+    },
+    {
+        "ZIP Code": "29351",
+        "City": "Joanna",
+        "County": "Laurens",
+        "Latitude": "34.415818",
+        "Longitude": "-81.8106"
+    },
+    {
+        "ZIP Code": "29353",
+        "City": "Jonesville",
+        "County": "Union",
+        "Latitude": "34.828217",
+        "Longitude": "-81.66903"
+    },
+    {
+        "ZIP Code": "29355",
+        "City": "Kinards",
+        "County": "Newberry",
+        "Latitude": "34.338289",
+        "Longitude": "-81.78674"
+    },
+    {
+        "ZIP Code": "29356",
+        "City": "Landrum",
+        "County": "Spartanburg",
+        "Latitude": "35.15617",
+        "Longitude": "-82.22045"
+    },
+    {
+        "ZIP Code": "29360",
+        "City": "Laurens",
+        "County": "Laurens",
+        "Latitude": "34.503167",
+        "Longitude": "-82.02271"
+    },
+    {
+        "ZIP Code": "29364",
+        "City": "Lockhart",
+        "County": "Union",
+        "Latitude": "34.788053",
+        "Longitude": "-81.46124"
+    },
+    {
+        "ZIP Code": "29365",
+        "City": "Lyman",
+        "County": "Spartanburg",
+        "Latitude": "34.96589",
+        "Longitude": "-82.14541"
+    },
+    {
+        "ZIP Code": "29368",
+        "City": "Mayo",
+        "County": "Spartanburg",
+        "Latitude": "34.949241",
+        "Longitude": "-81.990216"
+    },
+    {
+        "ZIP Code": "29369",
+        "City": "Moore",
+        "County": "Spartanburg",
+        "Latitude": "34.865445",
+        "Longitude": "-82.02018"
+    },
+    {
+        "ZIP Code": "29370",
+        "City": "Mountville",
+        "County": "Laurens",
+        "Latitude": "34.367183",
+        "Longitude": "-81.9768"
+    },
+    {
+        "ZIP Code": "29372",
+        "City": "Pacolet",
+        "County": "Spartanburg",
+        "Latitude": "34.900682",
+        "Longitude": "-81.74846"
+    },
+    {
+        "ZIP Code": "29373",
+        "City": "Pacolet Mills",
+        "County": "Spartanburg",
+        "Latitude": "34.925281",
+        "Longitude": "-81.74321"
+    },
+    {
+        "ZIP Code": "29374",
+        "City": "Pauline",
+        "County": "Spartanburg",
+        "Latitude": "34.783908",
+        "Longitude": "-81.85468"
+    },
+    {
+        "ZIP Code": "29375",
+        "City": "Reidville",
+        "County": "Spartanburg",
+        "Latitude": "34.862432",
+        "Longitude": "-82.11066"
+    },
+    {
+        "ZIP Code": "29376",
+        "City": "Roebuck",
+        "County": "Spartanburg",
+        "Latitude": "34.856283",
+        "Longitude": "-81.95444"
+    },
+    {
+        "ZIP Code": "29377",
+        "City": "Startex",
+        "County": "Spartanburg",
+        "Latitude": "34.935828",
+        "Longitude": "-82.09514"
+    },
+    {
+        "ZIP Code": "29378",
+        "City": "Una",
+        "County": "Spartanburg",
+        "Latitude": "34.853013",
+        "Longitude": "-81.772738"
+    },
+    {
+        "ZIP Code": "29379",
+        "City": "Union",
+        "County": "Union",
+        "Latitude": "34.714045",
+        "Longitude": "-81.60496"
+    },
+    {
+        "ZIP Code": "29384",
+        "City": "Waterloo",
+        "County": "Laurens",
+        "Latitude": "34.323605",
+        "Longitude": "-82.08325"
+    },
+    {
+        "ZIP Code": "29385",
+        "City": "Wellford",
+        "County": "Spartanburg",
+        "Latitude": "34.954729",
+        "Longitude": "-82.09312"
+    },
+    {
+        "ZIP Code": "29386",
+        "City": "White Stone",
+        "County": "Spartanburg",
+        "Latitude": "34.888237",
+        "Longitude": "-81.96902"
+    },
+    {
+        "ZIP Code": "29388",
+        "City": "Woodruff",
+        "County": "Spartanburg",
+        "Latitude": "34.758703",
+        "Longitude": "-82.0483"
+    },
+    {
+        "ZIP Code": "29395",
+        "City": "Jonesville",
+        "County": "Union",
+        "Latitude": "34.8546",
+        "Longitude": "-81.738"
+    },
+    {
+        "ZIP Code": "29401",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.779126",
+        "Longitude": "-79.9355"
+    },
+    {
+        "ZIP Code": "29402",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29403",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.799326",
+        "Longitude": "-79.94813"
+    },
+    {
+        "ZIP Code": "29404",
+        "City": "Charleston AFB",
+        "County": "Charleston",
+        "Latitude": "32.897903",
+        "Longitude": "-80.06061"
+    },
+    {
+        "ZIP Code": "29405",
+        "City": "North Charleston",
+        "County": "Charleston",
+        "Latitude": "32.856634",
+        "Longitude": "-79.98218"
+    },
+    {
+        "ZIP Code": "29406",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.918757",
+        "Longitude": "-80.0228"
+    },
+    {
+        "ZIP Code": "29407",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.794841",
+        "Longitude": "-80.005"
+    },
+    {
+        "ZIP Code": "29409",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29410",
+        "City": "Hanahan",
+        "County": "Berkeley",
+        "Latitude": "33.192514",
+        "Longitude": "-80.03063"
+    },
+    {
+        "ZIP Code": "29412",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.73727",
+        "Longitude": "-79.95409"
+    },
+    {
+        "ZIP Code": "29413",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29414",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.821238",
+        "Longitude": "-80.05353"
+    },
+    {
+        "ZIP Code": "29415",
+        "City": "North Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29416",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29417",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29418",
+        "City": "North Charleston",
+        "County": "Charleston",
+        "Latitude": "32.879529",
+        "Longitude": "-80.05911"
+    },
+    {
+        "ZIP Code": "29419",
+        "City": "North Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29420",
+        "City": "North Charleston",
+        "County": "Dorchester",
+        "Latitude": "32.93064",
+        "Longitude": "-80.09247"
+    },
+    {
+        "ZIP Code": "29422",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29423",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.981952",
+        "Longitude": "-80.07363"
+    },
+    {
+        "ZIP Code": "29424",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.783076",
+        "Longitude": "-79.93701"
+    },
+    {
+        "ZIP Code": "29425",
+        "City": "Charleston",
+        "County": "Charleston",
+        "Latitude": "32.786176",
+        "Longitude": "-79.94711"
+    },
+    {
+        "ZIP Code": "29426",
+        "City": "Adams Run",
+        "County": "Charleston",
+        "Latitude": "32.790622",
+        "Longitude": "-80.38489"
+    },
+    {
+        "ZIP Code": "29429",
+        "City": "Awendaw",
+        "County": "Charleston",
+        "Latitude": "32.97251",
+        "Longitude": "-79.6607"
+    },
+    {
+        "ZIP Code": "29431",
+        "City": "Bonneau",
+        "County": "Berkeley",
+        "Latitude": "33.284887",
+        "Longitude": "-79.91504"
+    },
+    {
+        "ZIP Code": "29432",
+        "City": "Branchville",
+        "County": "Orangeburg",
+        "Latitude": "33.229581",
+        "Longitude": "-80.80248"
+    },
+    {
+        "ZIP Code": "29433",
+        "City": "Canadys",
+        "County": "Colleton",
+        "Latitude": "33.061376",
+        "Longitude": "-80.631208"
+    },
+    {
+        "ZIP Code": "29434",
+        "City": "Cordesville",
+        "County": "Berkeley",
+        "Latitude": "33.119898",
+        "Longitude": "-79.85797"
+    },
+    {
+        "ZIP Code": "29435",
+        "City": "Cottageville",
+        "County": "Colleton",
+        "Latitude": "32.976399",
+        "Longitude": "-80.47925"
+    },
+    {
+        "ZIP Code": "29436",
+        "City": "Cross",
+        "County": "Berkeley",
+        "Latitude": "33.345833",
+        "Longitude": "-80.19009"
+    },
+    {
+        "ZIP Code": "29437",
+        "City": "Dorchester",
+        "County": "Dorchester",
+        "Latitude": "33.144807",
+        "Longitude": "-80.41593"
+    },
+    {
+        "ZIP Code": "29438",
+        "City": "Edisto Island",
+        "County": "Colleton",
+        "Latitude": "32.542343",
+        "Longitude": "-80.31682"
+    },
+    {
+        "ZIP Code": "29439",
+        "City": "Folly Beach",
+        "County": "Charleston",
+        "Latitude": "32.662451",
+        "Longitude": "-79.93224"
+    },
+    {
+        "ZIP Code": "29440",
+        "City": "Georgetown",
+        "County": "Georgetown",
+        "Latitude": "33.38934",
+        "Longitude": "-79.32638"
+    },
+    {
+        "ZIP Code": "29442",
+        "City": "Georgetown",
+        "County": "Georgetown",
+        "Latitude": "33.403693",
+        "Longitude": "-79.226361"
+    },
+    {
+        "ZIP Code": "29445",
+        "City": "Goose Creek",
+        "County": "Berkeley",
+        "Latitude": "32.991185",
+        "Longitude": "-80.02347"
+    },
+    {
+        "ZIP Code": "29446",
+        "City": "Green Pond",
+        "County": "Colleton",
+        "Latitude": "32.683083",
+        "Longitude": "-80.56074"
+    },
+    {
+        "ZIP Code": "29447",
+        "City": "Grover",
+        "County": "Dorchester",
+        "Latitude": "33.086324",
+        "Longitude": "-80.62279"
+    },
+    {
+        "ZIP Code": "29448",
+        "City": "Harleyville",
+        "County": "Dorchester",
+        "Latitude": "33.237382",
+        "Longitude": "-80.45186"
+    },
+    {
+        "ZIP Code": "29449",
+        "City": "Hollywood",
+        "County": "Charleston",
+        "Latitude": "32.715745",
+        "Longitude": "-80.26738"
+    },
+    {
+        "ZIP Code": "29450",
+        "City": "Huger",
+        "County": "Berkeley",
+        "Latitude": "33.046869",
+        "Longitude": "-79.8097"
+    },
+    {
+        "ZIP Code": "29451",
+        "City": "Isle Of Palms",
+        "County": "Charleston",
+        "Latitude": "32.798138",
+        "Longitude": "-79.76496"
+    },
+    {
+        "ZIP Code": "29452",
+        "City": "Jacksonboro",
+        "County": "Colleton",
+        "Latitude": "32.745396",
+        "Longitude": "-80.46458"
+    },
+    {
+        "ZIP Code": "29453",
+        "City": "Jamestown",
+        "County": "Berkeley",
+        "Latitude": "33.235105",
+        "Longitude": "-79.61472"
+    },
+    {
+        "ZIP Code": "29455",
+        "City": "Johns Island",
+        "County": "Charleston",
+        "Latitude": "32.717109",
+        "Longitude": "-80.08507"
+    },
+    {
+        "ZIP Code": "29456",
+        "City": "Ladson",
+        "County": "Berkeley",
+        "Latitude": "32.993571",
+        "Longitude": "-80.12165"
+    },
+    {
+        "ZIP Code": "29457",
+        "City": "Johns Island",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29458",
+        "City": "Mc Clellanville",
+        "County": "Charleston",
+        "Latitude": "33.10594",
+        "Longitude": "-79.4657"
+    },
+    {
+        "ZIP Code": "29461",
+        "City": "Moncks Corner",
+        "County": "Berkeley",
+        "Latitude": "33.164225",
+        "Longitude": "-80.01039"
+    },
+    {
+        "ZIP Code": "29464",
+        "City": "Mount Pleasant",
+        "County": "Charleston",
+        "Latitude": "32.813518",
+        "Longitude": "-79.85899"
+    },
+    {
+        "ZIP Code": "29465",
+        "City": "Mount Pleasant",
+        "County": "Charleston",
+        "Latitude": "32.84885",
+        "Longitude": "-79.85773"
+    },
+    {
+        "ZIP Code": "29466",
+        "City": "Mount Pleasant",
+        "County": "Charleston",
+        "Latitude": "32.87602",
+        "Longitude": "-79.79148"
+    },
+    {
+        "ZIP Code": "29468",
+        "City": "Pineville",
+        "County": "Berkeley",
+        "Latitude": "33.418106",
+        "Longitude": "-80.07822"
+    },
+    {
+        "ZIP Code": "29469",
+        "City": "Pinopolis",
+        "County": "Berkeley",
+        "Latitude": "33.252941",
+        "Longitude": "-80.08297"
+    },
+    {
+        "ZIP Code": "29470",
+        "City": "Ravenel",
+        "County": "Charleston",
+        "Latitude": "32.788784",
+        "Longitude": "-80.22778"
+    },
+    {
+        "ZIP Code": "29471",
+        "City": "Reevesville",
+        "County": "Dorchester",
+        "Latitude": "33.198286",
+        "Longitude": "-80.65637"
+    },
+    {
+        "ZIP Code": "29472",
+        "City": "Ridgeville",
+        "County": "Dorchester",
+        "Latitude": "33.03271",
+        "Longitude": "-80.31958"
+    },
+    {
+        "ZIP Code": "29474",
+        "City": "Round O",
+        "County": "Colleton",
+        "Latitude": "32.939642",
+        "Longitude": "-80.54405"
+    },
+    {
+        "ZIP Code": "29475",
+        "City": "Ruffin",
+        "County": "Colleton",
+        "Latitude": "32.977614",
+        "Longitude": "-80.81529"
+    },
+    {
+        "ZIP Code": "29476",
+        "City": "Russellville",
+        "County": "Berkeley",
+        "Latitude": "33.164201",
+        "Longitude": "-79.904182"
+    },
+    {
+        "ZIP Code": "29477",
+        "City": "Saint George",
+        "County": "Dorchester",
+        "Latitude": "33.187906",
+        "Longitude": "-80.57602"
+    },
+    {
+        "ZIP Code": "29479",
+        "City": "Saint Stephen",
+        "County": "Berkeley",
+        "Latitude": "33.391941",
+        "Longitude": "-79.91737"
+    },
+    {
+        "ZIP Code": "29481",
+        "City": "Smoaks",
+        "County": "Colleton",
+        "Latitude": "33.105834",
+        "Longitude": "-80.81066"
+    },
+    {
+        "ZIP Code": "29482",
+        "City": "Sullivans Island",
+        "County": "Charleston",
+        "Latitude": "32.763456",
+        "Longitude": "-79.83791"
+    },
+    {
+        "ZIP Code": "29483",
+        "City": "Summerville",
+        "County": "Dorchester",
+        "Latitude": "33.034586",
+        "Longitude": "-80.18599"
+    },
+    {
+        "ZIP Code": "29484",
+        "City": "Summerville",
+        "County": "Dorchester",
+        "Latitude": "33.00234",
+        "Longitude": "-80.226694"
+    },
+    {
+        "ZIP Code": "29485",
+        "City": "Summerville",
+        "County": "Dorchester",
+        "Latitude": "32.983408",
+        "Longitude": "-80.17627"
+    },
+    {
+        "ZIP Code": "29486",
+        "City": "Summerville",
+        "County": "Berkeley",
+        "Latitude": "33.0844",
+        "Longitude": "-80.1108"
+    },
+    {
+        "ZIP Code": "29487",
+        "City": "Wadmalaw Island",
+        "County": "Charleston",
+        "Latitude": "32.651864",
+        "Longitude": "-80.17774"
+    },
+    {
+        "ZIP Code": "29488",
+        "City": "Walterboro",
+        "County": "Colleton",
+        "Latitude": "32.89989",
+        "Longitude": "-80.67195"
+    },
+    {
+        "ZIP Code": "29492",
+        "City": "Charleston",
+        "County": "Berkeley",
+        "Latitude": "32.91583",
+        "Longitude": "-79.8846"
+    },
+    {
+        "ZIP Code": "29493",
+        "City": "Williams",
+        "County": "Colleton",
+        "Latitude": "33.03378",
+        "Longitude": "-80.84282"
+    },
+    {
+        "ZIP Code": "29501",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.195705",
+        "Longitude": "-79.80977"
+    },
+    {
+        "ZIP Code": "29502",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.200994",
+        "Longitude": "-79.784721"
+    },
+    {
+        "ZIP Code": "29503",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.062999",
+        "Longitude": "-79.650627"
+    },
+    {
+        "ZIP Code": "29504",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.041582",
+        "Longitude": "-79.693294"
+    },
+    {
+        "ZIP Code": "29505",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.142119",
+        "Longitude": "-79.74311"
+    },
+    {
+        "ZIP Code": "29506",
+        "City": "Florence",
+        "County": "Florence",
+        "Latitude": "34.201299",
+        "Longitude": "-79.71722"
+    },
+    {
+        "ZIP Code": "29510",
+        "City": "Andrews",
+        "County": "Georgetown",
+        "Latitude": "33.45053",
+        "Longitude": "-79.59233"
+    },
+    {
+        "ZIP Code": "29511",
+        "City": "Aynor",
+        "County": "Horry",
+        "Latitude": "33.985128",
+        "Longitude": "-79.14985"
+    },
+    {
+        "ZIP Code": "29512",
+        "City": "Bennettsville",
+        "County": "Marlboro",
+        "Latitude": "34.657694",
+        "Longitude": "-79.69151"
+    },
+    {
+        "ZIP Code": "29516",
+        "City": "Blenheim",
+        "County": "Marlboro",
+        "Latitude": "34.467072",
+        "Longitude": "-79.6437"
+    },
+    {
+        "ZIP Code": "29518",
+        "City": "Cades",
+        "County": "Williamsburg",
+        "Latitude": "33.78144",
+        "Longitude": "-79.88688"
+    },
+    {
+        "ZIP Code": "29519",
+        "City": "Centenary",
+        "County": "Marion",
+        "Latitude": "34.028989",
+        "Longitude": "-79.3594"
+    },
+    {
+        "ZIP Code": "29520",
+        "City": "Cheraw",
+        "County": "Chesterfield",
+        "Latitude": "34.68862",
+        "Longitude": "-79.92315"
+    },
+    {
+        "ZIP Code": "29525",
+        "City": "Clio",
+        "County": "Marlboro",
+        "Latitude": "34.571839",
+        "Longitude": "-79.53847"
+    },
+    {
+        "ZIP Code": "29526",
+        "City": "Conway",
+        "County": "Horry",
+        "Latitude": "33.850218",
+        "Longitude": "-79.01692"
+    },
+    {
+        "ZIP Code": "29527",
+        "City": "Conway",
+        "County": "Horry",
+        "Latitude": "33.801049",
+        "Longitude": "-79.1148"
+    },
+    {
+        "ZIP Code": "29528",
+        "City": "Conway",
+        "County": "Horry",
+        "Latitude": "33.935814",
+        "Longitude": "-78.919205"
+    },
+    {
+        "ZIP Code": "29530",
+        "City": "Coward",
+        "County": "Florence",
+        "Latitude": "33.985431",
+        "Longitude": "-79.74037"
+    },
+    {
+        "ZIP Code": "29532",
+        "City": "Darlington",
+        "County": "Darlington",
+        "Latitude": "34.291269",
+        "Longitude": "-79.8761"
+    },
+    {
+        "ZIP Code": "29536",
+        "City": "Dillon",
+        "County": "Dillon",
+        "Latitude": "34.413907",
+        "Longitude": "-79.36512"
+    },
+    {
+        "ZIP Code": "29540",
+        "City": "Darlington",
+        "County": "Darlington",
+        "Latitude": "34.388055",
+        "Longitude": "-79.89135"
+    },
+    {
+        "ZIP Code": "29541",
+        "City": "Effingham",
+        "County": "Florence",
+        "Latitude": "34.070033",
+        "Longitude": "-79.75793"
+    },
+    {
+        "ZIP Code": "29543",
+        "City": "Fork",
+        "County": "Dillon",
+        "Latitude": "34.289399",
+        "Longitude": "-79.27039"
+    },
+    {
+        "ZIP Code": "29544",
+        "City": "Galivants Ferry",
+        "County": "Horry",
+        "Latitude": "34.002167",
+        "Longitude": "-79.19325"
+    },
+    {
+        "ZIP Code": "29545",
+        "City": "Green Sea",
+        "County": "Horry",
+        "Latitude": "34.164187",
+        "Longitude": "-78.96696"
+    },
+    {
+        "ZIP Code": "29546",
+        "City": "Gresham",
+        "County": "Marion",
+        "Latitude": "33.939996",
+        "Longitude": "-79.36142"
+    },
+    {
+        "ZIP Code": "29547",
+        "City": "Hamer",
+        "County": "Dillon",
+        "Latitude": "34.483711",
+        "Longitude": "-79.32815"
+    },
+    {
+        "ZIP Code": "29550",
+        "City": "Hartsville",
+        "County": "Darlington",
+        "Latitude": "34.386728",
+        "Longitude": "-80.08256"
+    },
+    {
+        "ZIP Code": "29551",
+        "City": "Hartsville",
+        "County": "Darlington",
+        "Latitude": "34.365898",
+        "Longitude": "-80.132418"
+    },
+    {
+        "ZIP Code": "29554",
+        "City": "Hemingway",
+        "County": "Williamsburg",
+        "Latitude": "33.71239",
+        "Longitude": "-79.40387"
+    },
+    {
+        "ZIP Code": "29555",
+        "City": "Johnsonville",
+        "County": "Florence",
+        "Latitude": "33.830612",
+        "Longitude": "-79.45494"
+    },
+    {
+        "ZIP Code": "29556",
+        "City": "Kingstree",
+        "County": "Williamsburg",
+        "Latitude": "33.671678",
+        "Longitude": "-79.78693"
+    },
+    {
+        "ZIP Code": "29560",
+        "City": "Lake City",
+        "County": "Florence",
+        "Latitude": "33.859815",
+        "Longitude": "-79.7542"
+    },
+    {
+        "ZIP Code": "29563",
+        "City": "Lake View",
+        "County": "Dillon",
+        "Latitude": "34.345437",
+        "Longitude": "-79.18651"
+    },
+    {
+        "ZIP Code": "29564",
+        "City": "Lane",
+        "County": "Williamsburg",
+        "Latitude": "33.493553",
+        "Longitude": "-79.87402"
+    },
+    {
+        "ZIP Code": "29565",
+        "City": "Latta",
+        "County": "Dillon",
+        "Latitude": "34.340797",
+        "Longitude": "-79.45893"
+    },
+    {
+        "ZIP Code": "29566",
+        "City": "Little River",
+        "County": "Horry",
+        "Latitude": "33.873017",
+        "Longitude": "-78.64282"
+    },
+    {
+        "ZIP Code": "29567",
+        "City": "Little Rock",
+        "County": "Dillon",
+        "Latitude": "34.525937",
+        "Longitude": "-79.42049"
+    },
+    {
+        "ZIP Code": "29568",
+        "City": "Longs",
+        "County": "Horry",
+        "Latitude": "33.915705",
+        "Longitude": "-78.74796"
+    },
+    {
+        "ZIP Code": "29569",
+        "City": "Loris",
+        "County": "Horry",
+        "Latitude": "34.046247",
+        "Longitude": "-78.9008"
+    },
+    {
+        "ZIP Code": "29570",
+        "City": "Mc Coll",
+        "County": "Marlboro",
+        "Latitude": "34.671428",
+        "Longitude": "-79.55308"
+    },
+    {
+        "ZIP Code": "29571",
+        "City": "Marion",
+        "County": "Marion",
+        "Latitude": "34.164094",
+        "Longitude": "-79.396"
+    },
+    {
+        "ZIP Code": "29572",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.765136",
+        "Longitude": "-78.79097"
+    },
+    {
+        "ZIP Code": "29574",
+        "City": "Mullins",
+        "County": "Marion",
+        "Latitude": "34.194685",
+        "Longitude": "-79.25775"
+    },
+    {
+        "ZIP Code": "29575",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.627763",
+        "Longitude": "-78.98126"
+    },
+    {
+        "ZIP Code": "29576",
+        "City": "Murrells Inlet",
+        "County": "Horry",
+        "Latitude": "33.568115",
+        "Longitude": "-79.03226"
+    },
+    {
+        "ZIP Code": "29577",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.698101",
+        "Longitude": "-78.89604"
+    },
+    {
+        "ZIP Code": "29578",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.738887",
+        "Longitude": "-78.999561"
+    },
+    {
+        "ZIP Code": "29579",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.729439",
+        "Longitude": "-78.97824"
+    },
+    {
+        "ZIP Code": "29580",
+        "City": "Nesmith",
+        "County": "Williamsburg",
+        "Latitude": "33.653454",
+        "Longitude": "-79.56773"
+    },
+    {
+        "ZIP Code": "29581",
+        "City": "Nichols",
+        "County": "Horry",
+        "Latitude": "34.19138",
+        "Longitude": "-79.11348"
+    },
+    {
+        "ZIP Code": "29582",
+        "City": "North Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.823495",
+        "Longitude": "-78.67824"
+    },
+    {
+        "ZIP Code": "29583",
+        "City": "Pamplico",
+        "County": "Florence",
+        "Latitude": "33.983639",
+        "Longitude": "-79.57018"
+    },
+    {
+        "ZIP Code": "29584",
+        "City": "Patrick",
+        "County": "Chesterfield",
+        "Latitude": "34.585217",
+        "Longitude": "-80.06109"
+    },
+    {
+        "ZIP Code": "29585",
+        "City": "Pawleys Island",
+        "County": "Georgetown",
+        "Latitude": "33.467343",
+        "Longitude": "-79.1301"
+    },
+    {
+        "ZIP Code": "29587",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.621094",
+        "Longitude": "-78.963155"
+    },
+    {
+        "ZIP Code": "29588",
+        "City": "Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.694757",
+        "Longitude": "-78.999862"
+    },
+    {
+        "ZIP Code": "29589",
+        "City": "Rains",
+        "County": "Marion",
+        "Latitude": "34.095976",
+        "Longitude": "-79.31738"
+    },
+    {
+        "ZIP Code": "29590",
+        "City": "Salters",
+        "County": "Williamsburg",
+        "Latitude": "33.575913",
+        "Longitude": "-79.85551"
+    },
+    {
+        "ZIP Code": "29591",
+        "City": "Scranton",
+        "County": "Florence",
+        "Latitude": "33.927936",
+        "Longitude": "-79.76429"
+    },
+    {
+        "ZIP Code": "29592",
+        "City": "Sellers",
+        "County": "Marion",
+        "Latitude": "34.283207",
+        "Longitude": "-79.47272"
+    },
+    {
+        "ZIP Code": "29593",
+        "City": "Society Hill",
+        "County": "Darlington",
+        "Latitude": "34.492154",
+        "Longitude": "-79.87045"
+    },
+    {
+        "ZIP Code": "29594",
+        "City": "Tatum",
+        "County": "Marlboro",
+        "Latitude": "34.645047",
+        "Longitude": "-79.58188"
+    },
+    {
+        "ZIP Code": "29596",
+        "City": "Wallace",
+        "County": "Marlboro",
+        "Latitude": "34.743074",
+        "Longitude": "-79.83177"
+    },
+    {
+        "ZIP Code": "29597",
+        "City": "North Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.785803",
+        "Longitude": "-78.971795"
+    },
+    {
+        "ZIP Code": "29598",
+        "City": "North Myrtle Beach",
+        "County": "Horry",
+        "Latitude": "33.935814",
+        "Longitude": "-78.919205"
+    },
+    {
+        "ZIP Code": "29601",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.848301",
+        "Longitude": "-82.40578"
+    },
+    {
+        "ZIP Code": "29602",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.800718",
+        "Longitude": "-82.395594"
+    },
+    {
+        "ZIP Code": "29603",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.837666",
+        "Longitude": "-82.371519"
+    },
+    {
+        "ZIP Code": "29604",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29605",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.798035",
+        "Longitude": "-82.39289"
+    },
+    {
+        "ZIP Code": "29606",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29607",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.825592",
+        "Longitude": "-82.34099"
+    },
+    {
+        "ZIP Code": "29608",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29609",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.889217",
+        "Longitude": "-82.39364"
+    },
+    {
+        "ZIP Code": "29610",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29611",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.840717",
+        "Longitude": "-82.44234"
+    },
+    {
+        "ZIP Code": "29612",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29613",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.924876",
+        "Longitude": "-82.433132"
+    },
+    {
+        "ZIP Code": "29614",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.872423",
+        "Longitude": "-82.362585"
+    },
+    {
+        "ZIP Code": "29615",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.866801",
+        "Longitude": "-82.31739"
+    },
+    {
+        "ZIP Code": "29616",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29617",
+        "City": "Greenville",
+        "County": "Greenville",
+        "Latitude": "34.897829",
+        "Longitude": "-82.447"
+    },
+    {
+        "ZIP Code": "29620",
+        "City": "Abbeville",
+        "County": "Abbeville",
+        "Latitude": "34.189812",
+        "Longitude": "-82.41245"
+    },
+    {
+        "ZIP Code": "29621",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.523657",
+        "Longitude": "-82.62509"
+    },
+    {
+        "ZIP Code": "29622",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.491988",
+        "Longitude": "-82.782868"
+    },
+    {
+        "ZIP Code": "29623",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.438087",
+        "Longitude": "-82.835449"
+    },
+    {
+        "ZIP Code": "29624",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.478139",
+        "Longitude": "-82.6455"
+    },
+    {
+        "ZIP Code": "29625",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.532638",
+        "Longitude": "-82.71615"
+    },
+    {
+        "ZIP Code": "29626",
+        "City": "Anderson",
+        "County": "Anderson",
+        "Latitude": "34.464572",
+        "Longitude": "-82.74032"
+    },
+    {
+        "ZIP Code": "29627",
+        "City": "Belton",
+        "County": "Anderson",
+        "Latitude": "34.517231",
+        "Longitude": "-82.49053"
+    },
+    {
+        "ZIP Code": "29628",
+        "City": "Calhoun Falls",
+        "County": "Abbeville",
+        "Latitude": "34.095246",
+        "Longitude": "-82.56215"
+    },
+    {
+        "ZIP Code": "29630",
+        "City": "Central",
+        "County": "Pickens",
+        "Latitude": "34.733515",
+        "Longitude": "-82.78407"
+    },
+    {
+        "ZIP Code": "29631",
+        "City": "Clemson",
+        "County": "Pickens",
+        "Latitude": "34.681255",
+        "Longitude": "-82.82176"
+    },
+    {
+        "ZIP Code": "29632",
+        "City": "Clemson",
+        "County": "Pickens",
+        "Latitude": "34.847372",
+        "Longitude": "-82.710126"
+    },
+    {
+        "ZIP Code": "29633",
+        "City": "Clemson",
+        "County": "Pickens",
+        "Latitude": "34.847372",
+        "Longitude": "-82.710126"
+    },
+    {
+        "ZIP Code": "29634",
+        "City": "Clemson",
+        "County": "Pickens",
+        "Latitude": "34.847372",
+        "Longitude": "-82.710126"
+    },
+    {
+        "ZIP Code": "29635",
+        "City": "Cleveland",
+        "County": "Greenville",
+        "Latitude": "35.084282",
+        "Longitude": "-82.62565"
+    },
+    {
+        "ZIP Code": "29636",
+        "City": "Conestee",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29638",
+        "City": "Donalds",
+        "County": "Abbeville",
+        "Latitude": "34.370703",
+        "Longitude": "-82.33427"
+    },
+    {
+        "ZIP Code": "29639",
+        "City": "Due West",
+        "County": "Abbeville",
+        "Latitude": "34.325575",
+        "Longitude": "-82.4023"
+    },
+    {
+        "ZIP Code": "29640",
+        "City": "Easley",
+        "County": "Pickens",
+        "Latitude": "34.849655",
+        "Longitude": "-82.59365"
+    },
+    {
+        "ZIP Code": "29641",
+        "City": "Easley",
+        "County": "Pickens",
+        "Latitude": "34.813542",
+        "Longitude": "-82.653067"
+    },
+    {
+        "ZIP Code": "29642",
+        "City": "Easley",
+        "County": "Pickens",
+        "Latitude": "34.789884",
+        "Longitude": "-82.56459"
+    },
+    {
+        "ZIP Code": "29643",
+        "City": "Fair Play",
+        "County": "Oconee",
+        "Latitude": "34.505005",
+        "Longitude": "-82.99703"
+    },
+    {
+        "ZIP Code": "29644",
+        "City": "Fountain Inn",
+        "County": "Greenville",
+        "Latitude": "34.681279",
+        "Longitude": "-82.19732"
+    },
+    {
+        "ZIP Code": "29645",
+        "City": "Gray Court",
+        "County": "Laurens",
+        "Latitude": "34.601311",
+        "Longitude": "-82.13111"
+    },
+    {
+        "ZIP Code": "29646",
+        "City": "Greenwood",
+        "County": "Greenwood",
+        "Latitude": "34.169781",
+        "Longitude": "-82.15474"
+    },
+    {
+        "ZIP Code": "29647",
+        "City": "Greenwood",
+        "County": "Greenwood",
+        "Latitude": "34.178813",
+        "Longitude": "-82.163078"
+    },
+    {
+        "ZIP Code": "29648",
+        "City": "Greenwood",
+        "County": "Greenwood",
+        "Latitude": "34.21241",
+        "Longitude": "-82.168139"
+    },
+    {
+        "ZIP Code": "29649",
+        "City": "Greenwood",
+        "County": "Greenwood",
+        "Latitude": "34.225872",
+        "Longitude": "-82.15614"
+    },
+    {
+        "ZIP Code": "29650",
+        "City": "Greer",
+        "County": "Greenville",
+        "Latitude": "34.911469",
+        "Longitude": "-82.25178"
+    },
+    {
+        "ZIP Code": "29651",
+        "City": "Greer",
+        "County": "Greenville",
+        "Latitude": "34.937356",
+        "Longitude": "-82.22117"
+    },
+    {
+        "ZIP Code": "29652",
+        "City": "Greer",
+        "County": "Greenville",
+        "Latitude": "34.849745",
+        "Longitude": "-82.453779"
+    },
+    {
+        "ZIP Code": "29653",
+        "City": "Hodges",
+        "County": "Greenwood",
+        "Latitude": "34.286915",
+        "Longitude": "-82.23672"
+    },
+    {
+        "ZIP Code": "29654",
+        "City": "Honea Path",
+        "County": "Anderson",
+        "Latitude": "34.45451",
+        "Longitude": "-82.38755"
+    },
+    {
+        "ZIP Code": "29655",
+        "City": "Iva",
+        "County": "Anderson",
+        "Latitude": "34.299215",
+        "Longitude": "-82.63812"
+    },
+    {
+        "ZIP Code": "29656",
+        "City": "La France",
+        "County": "Anderson",
+        "Latitude": "34.612144",
+        "Longitude": "-82.76263"
+    },
+    {
+        "ZIP Code": "29657",
+        "City": "Liberty",
+        "County": "Pickens",
+        "Latitude": "34.779483",
+        "Longitude": "-82.68861"
+    },
+    {
+        "ZIP Code": "29658",
+        "City": "Long Creek",
+        "County": "Oconee",
+        "Latitude": "34.774914",
+        "Longitude": "-83.27236"
+    },
+    {
+        "ZIP Code": "29659",
+        "City": "Lowndesville",
+        "County": "Abbeville",
+        "Latitude": "34.210243",
+        "Longitude": "-82.63239"
+    },
+    {
+        "ZIP Code": "29661",
+        "City": "Marietta",
+        "County": "Greenville",
+        "Latitude": "35.048312",
+        "Longitude": "-82.52726"
+    },
+    {
+        "ZIP Code": "29662",
+        "City": "Mauldin",
+        "County": "Greenville",
+        "Latitude": "34.774657",
+        "Longitude": "-82.30432"
+    },
+    {
+        "ZIP Code": "29664",
+        "City": "Mountain Rest",
+        "County": "Oconee",
+        "Latitude": "34.855841",
+        "Longitude": "-83.16336"
+    },
+    {
+        "ZIP Code": "29665",
+        "City": "Newry",
+        "County": "Oconee",
+        "Latitude": "34.725935",
+        "Longitude": "-82.90985"
+    },
+    {
+        "ZIP Code": "29666",
+        "City": "Ninety Six",
+        "County": "Greenwood",
+        "Latitude": "34.14606",
+        "Longitude": "-82.00203"
+    },
+    {
+        "ZIP Code": "29667",
+        "City": "Norris",
+        "County": "Pickens",
+        "Latitude": "34.766305",
+        "Longitude": "-82.75838"
+    },
+    {
+        "ZIP Code": "29669",
+        "City": "Pelzer",
+        "County": "Anderson",
+        "Latitude": "34.646501",
+        "Longitude": "-82.44077"
+    },
+    {
+        "ZIP Code": "29670",
+        "City": "Pendleton",
+        "County": "Anderson",
+        "Latitude": "34.641851",
+        "Longitude": "-82.76668"
+    },
+    {
+        "ZIP Code": "29671",
+        "City": "Pickens",
+        "County": "Pickens",
+        "Latitude": "34.912476",
+        "Longitude": "-82.71136"
+    },
+    {
+        "ZIP Code": "29672",
+        "City": "Seneca",
+        "County": "Oconee",
+        "Latitude": "34.736907",
+        "Longitude": "-82.94599"
+    },
+    {
+        "ZIP Code": "29673",
+        "City": "Piedmont",
+        "County": "Greenville",
+        "Latitude": "34.723173",
+        "Longitude": "-82.4565"
+    },
+    {
+        "ZIP Code": "29675",
+        "City": "Richland",
+        "County": "Oconee",
+        "Latitude": "34.764076",
+        "Longitude": "-83.088332"
+    },
+    {
+        "ZIP Code": "29676",
+        "City": "Salem",
+        "County": "Oconee",
+        "Latitude": "34.888111",
+        "Longitude": "-82.95878"
+    },
+    {
+        "ZIP Code": "29677",
+        "City": "Sandy Springs",
+        "County": "Anderson",
+        "Latitude": "34.589662",
+        "Longitude": "-82.74935"
+    },
+    {
+        "ZIP Code": "29678",
+        "City": "Seneca",
+        "County": "Oconee",
+        "Latitude": "34.660345",
+        "Longitude": "-82.94557"
+    },
+    {
+        "ZIP Code": "29679",
+        "City": "Seneca",
+        "County": "Oconee",
+        "Latitude": "34.607898",
+        "Longitude": "-82.939668"
+    },
+    {
+        "ZIP Code": "29680",
+        "City": "Simpsonville",
+        "County": "Greenville",
+        "Latitude": "34.709869",
+        "Longitude": "-82.28385"
+    },
+    {
+        "ZIP Code": "29681",
+        "City": "Simpsonville",
+        "County": "Greenville",
+        "Latitude": "34.762693",
+        "Longitude": "-82.24512"
+    },
+    {
+        "ZIP Code": "29682",
+        "City": "Six Mile",
+        "County": "Pickens",
+        "Latitude": "34.833113",
+        "Longitude": "-82.83794"
+    },
+    {
+        "ZIP Code": "29683",
+        "City": "Slater",
+        "County": "Greenville",
+        "Latitude": "35.031252",
+        "Longitude": "-82.49425"
+    },
+    {
+        "ZIP Code": "29684",
+        "City": "Starr",
+        "County": "Anderson",
+        "Latitude": "34.376689",
+        "Longitude": "-82.71772"
+    },
+    {
+        "ZIP Code": "29685",
+        "City": "Sunset",
+        "County": "Pickens",
+        "Latitude": "34.95424",
+        "Longitude": "-82.8484"
+    },
+    {
+        "ZIP Code": "29686",
+        "City": "Tamassee",
+        "County": "Oconee",
+        "Latitude": "34.898387",
+        "Longitude": "-83.04391"
+    },
+    {
+        "ZIP Code": "29687",
+        "City": "Taylors",
+        "County": "Greenville",
+        "Latitude": "34.935636",
+        "Longitude": "-82.32238"
+    },
+    {
+        "ZIP Code": "29688",
+        "City": "Tigerville",
+        "County": "Greenville",
+        "Latitude": "35.068914",
+        "Longitude": "-82.37061"
+    },
+    {
+        "ZIP Code": "29689",
+        "City": "Townville",
+        "County": "Anderson",
+        "Latitude": "34.527385",
+        "Longitude": "-82.86993"
+    },
+    {
+        "ZIP Code": "29690",
+        "City": "Travelers Rest",
+        "County": "Greenville",
+        "Latitude": "35.018511",
+        "Longitude": "-82.43224"
+    },
+    {
+        "ZIP Code": "29691",
+        "City": "Walhalla",
+        "County": "Oconee",
+        "Latitude": "34.769994",
+        "Longitude": "-83.06882"
+    },
+    {
+        "ZIP Code": "29692",
+        "City": "Ware Shoals",
+        "County": "Greenwood",
+        "Latitude": "34.404535",
+        "Longitude": "-82.23851"
+    },
+    {
+        "ZIP Code": "29693",
+        "City": "Westminster",
+        "County": "Oconee",
+        "Latitude": "34.633763",
+        "Longitude": "-83.11495"
+    },
+    {
+        "ZIP Code": "29695",
+        "City": "Hodges",
+        "County": "Greenwood",
+        "Latitude": "34.218582",
+        "Longitude": "-82.304658"
+    },
+    {
+        "ZIP Code": "29696",
+        "City": "West Union",
+        "County": "Oconee",
+        "Latitude": "34.77272",
+        "Longitude": "-83.02066"
+    },
+    {
+        "ZIP Code": "29697",
+        "City": "Williamston",
+        "County": "Anderson",
+        "Latitude": "34.622494",
+        "Longitude": "-82.50551"
+    },
+    {
+        "ZIP Code": "29702",
+        "City": "Blacksburg",
+        "County": "Cherokee",
+        "Latitude": "35.118338",
+        "Longitude": "-81.49413"
+    },
+    {
+        "ZIP Code": "29703",
+        "City": "Bowling Green",
+        "County": "York",
+        "Latitude": "34.992612",
+        "Longitude": "-81.178712"
+    },
+    {
+        "ZIP Code": "29704",
+        "City": "Catawba",
+        "County": "York",
+        "Latitude": "34.843469",
+        "Longitude": "-80.92235"
+    },
+    {
+        "ZIP Code": "29706",
+        "City": "Chester",
+        "County": "Chester",
+        "Latitude": "34.720597",
+        "Longitude": "-81.21429"
+    },
+    {
+        "ZIP Code": "29707",
+        "City": "Fort Mill",
+        "County": "Lancaster",
+        "Latitude": "34.9678",
+        "Longitude": "-80.8433"
+    },
+    {
+        "ZIP Code": "29708",
+        "City": "Fort Mill",
+        "County": "York",
+        "Latitude": "35.040969",
+        "Longitude": "-80.99427"
+    },
+    {
+        "ZIP Code": "29709",
+        "City": "Chesterfield",
+        "County": "Chesterfield",
+        "Latitude": "34.720306",
+        "Longitude": "-80.09371"
+    },
+    {
+        "ZIP Code": "29710",
+        "City": "Clover",
+        "County": "York",
+        "Latitude": "35.109114",
+        "Longitude": "-81.19429"
+    },
+    {
+        "ZIP Code": "29712",
+        "City": "Edgemoor",
+        "County": "Chester",
+        "Latitude": "34.795665",
+        "Longitude": "-80.97792"
+    },
+    {
+        "ZIP Code": "29714",
+        "City": "Fort Lawn",
+        "County": "Chester",
+        "Latitude": "34.702249",
+        "Longitude": "-80.90157"
+    },
+    {
+        "ZIP Code": "29715",
+        "City": "Fort Mill",
+        "County": "York",
+        "Latitude": "35.008416",
+        "Longitude": "-80.91644"
+    },
+    {
+        "ZIP Code": "29716",
+        "City": "Fort Mill",
+        "County": "York",
+        "Latitude": "35.062815",
+        "Longitude": "-80.969035"
+    },
+    {
+        "ZIP Code": "29717",
+        "City": "Hickory Grove",
+        "County": "York",
+        "Latitude": "34.963208",
+        "Longitude": "-81.43049"
+    },
+    {
+        "ZIP Code": "29718",
+        "City": "Jefferson",
+        "County": "Chesterfield",
+        "Latitude": "34.631305",
+        "Longitude": "-80.35877"
+    },
+    {
+        "ZIP Code": "29720",
+        "City": "Lancaster",
+        "County": "Lancaster",
+        "Latitude": "34.729073",
+        "Longitude": "-80.76005"
+    },
+    {
+        "ZIP Code": "29721",
+        "City": "Lancaster",
+        "County": "Lancaster",
+        "Latitude": "34.699412",
+        "Longitude": "-80.781721"
+    },
+    {
+        "ZIP Code": "29722",
+        "City": "Lancaster",
+        "County": "Lancaster",
+        "Latitude": "34.767269",
+        "Longitude": "-80.658932"
+    },
+    {
+        "ZIP Code": "29724",
+        "City": "Lando",
+        "County": "Chester",
+        "Latitude": "34.774347",
+        "Longitude": "-81.00994"
+    },
+    {
+        "ZIP Code": "29726",
+        "City": "Mc Connells",
+        "County": "York",
+        "Latitude": "34.861633",
+        "Longitude": "-81.22788"
+    },
+    {
+        "ZIP Code": "29727",
+        "City": "Mount Croghan",
+        "County": "Chesterfield",
+        "Latitude": "34.712457",
+        "Longitude": "-80.26799"
+    },
+    {
+        "ZIP Code": "29728",
+        "City": "Pageland",
+        "County": "Chesterfield",
+        "Latitude": "34.769259",
+        "Longitude": "-80.39935"
+    },
+    {
+        "ZIP Code": "29729",
+        "City": "Richburg",
+        "County": "Chester",
+        "Latitude": "34.692002",
+        "Longitude": "-81.00536"
+    },
+    {
+        "ZIP Code": "29730",
+        "City": "Rock Hill",
+        "County": "York",
+        "Latitude": "34.914611",
+        "Longitude": "-81.0125"
+    },
+    {
+        "ZIP Code": "29731",
+        "City": "Rock Hill",
+        "County": "York",
+        "Latitude": "34.992612",
+        "Longitude": "-81.178712"
+    },
+    {
+        "ZIP Code": "29732",
+        "City": "Rock Hill",
+        "County": "York",
+        "Latitude": "34.969427",
+        "Longitude": "-81.0509"
+    },
+    {
+        "ZIP Code": "29733",
+        "City": "Rock Hill",
+        "County": "York",
+        "Latitude": "34.992612",
+        "Longitude": "-81.178712"
+    },
+    {
+        "ZIP Code": "29734",
+        "City": "Rock Hill",
+        "County": "York",
+        "Latitude": "34.992612",
+        "Longitude": "-81.178712"
+    },
+    {
+        "ZIP Code": "29741",
+        "City": "Ruby",
+        "County": "Chesterfield",
+        "Latitude": "34.721265",
+        "Longitude": "-80.19733"
+    },
+    {
+        "ZIP Code": "29742",
+        "City": "Sharon",
+        "County": "York",
+        "Latitude": "34.870127",
+        "Longitude": "-81.39136"
+    },
+    {
+        "ZIP Code": "29743",
+        "City": "Smyrna",
+        "County": "York",
+        "Latitude": "35.041829",
+        "Longitude": "-81.40335"
+    },
+    {
+        "ZIP Code": "29744",
+        "City": "Van Wyck",
+        "County": "Lancaster",
+        "Latitude": "34.973866",
+        "Longitude": "-80.851836"
+    },
+    {
+        "ZIP Code": "29745",
+        "City": "York",
+        "County": "York",
+        "Latitude": "35.005981",
+        "Longitude": "-81.21176"
+    },
+    {
+        "ZIP Code": "29801",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.569885",
+        "Longitude": "-81.71368"
+    },
+    {
+        "ZIP Code": "29802",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.723519",
+        "Longitude": "-81.59072"
+    },
+    {
+        "ZIP Code": "29803",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.486049",
+        "Longitude": "-81.70946"
+    },
+    {
+        "ZIP Code": "29804",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.53773",
+        "Longitude": "-81.599891"
+    },
+    {
+        "ZIP Code": "29805",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.650812",
+        "Longitude": "-81.61561"
+    },
+    {
+        "ZIP Code": "29808",
+        "City": "Aiken",
+        "County": "Aiken",
+        "Latitude": "33.53773",
+        "Longitude": "-81.599891"
+    },
+    {
+        "ZIP Code": "29809",
+        "City": "New Ellenton",
+        "County": "Aiken",
+        "Latitude": "33.415481",
+        "Longitude": "-81.68632"
+    },
+    {
+        "ZIP Code": "29810",
+        "City": "Allendale",
+        "County": "Allendale",
+        "Latitude": "33.010041",
+        "Longitude": "-81.33069"
+    },
+    {
+        "ZIP Code": "29812",
+        "City": "Barnwell",
+        "County": "Barnwell",
+        "Latitude": "33.226172",
+        "Longitude": "-81.36031"
+    },
+    {
+        "ZIP Code": "29813",
+        "City": "Hilda",
+        "County": "Barnwell",
+        "Latitude": "33.291666",
+        "Longitude": "-81.482658"
+    },
+    {
+        "ZIP Code": "29816",
+        "City": "Bath",
+        "County": "Aiken",
+        "Latitude": "33.503438",
+        "Longitude": "-81.87128"
+    },
+    {
+        "ZIP Code": "29817",
+        "City": "Blackville",
+        "County": "Barnwell",
+        "Latitude": "33.363785",
+        "Longitude": "-81.28416"
+    },
+    {
+        "ZIP Code": "29819",
+        "City": "Bradley",
+        "County": "Greenwood",
+        "Latitude": "34.074234",
+        "Longitude": "-82.23492"
+    },
+    {
+        "ZIP Code": "29821",
+        "City": "Clarks Hill",
+        "County": "Mccormick",
+        "Latitude": "33.643924",
+        "Longitude": "-82.13638"
+    },
+    {
+        "ZIP Code": "29822",
+        "City": "Clearwater",
+        "County": "Aiken",
+        "Latitude": "33.498386",
+        "Longitude": "-81.89705"
+    },
+    {
+        "ZIP Code": "29824",
+        "City": "Edgefield",
+        "County": "Edgefield",
+        "Latitude": "33.819096",
+        "Longitude": "-81.95036"
+    },
+    {
+        "ZIP Code": "29826",
+        "City": "Elko",
+        "County": "Barnwell",
+        "Latitude": "33.380314",
+        "Longitude": "-81.37854"
+    },
+    {
+        "ZIP Code": "29827",
+        "City": "Fairfax",
+        "County": "Allendale",
+        "Latitude": "32.963048",
+        "Longitude": "-81.24052"
+    },
+    {
+        "ZIP Code": "29828",
+        "City": "Gloverville",
+        "County": "Aiken",
+        "Latitude": "33.523241",
+        "Longitude": "-81.82785"
+    },
+    {
+        "ZIP Code": "29829",
+        "City": "Graniteville",
+        "County": "Aiken",
+        "Latitude": "33.566349",
+        "Longitude": "-81.84119"
+    },
+    {
+        "ZIP Code": "29831",
+        "City": "Jackson",
+        "County": "Aiken",
+        "Latitude": "33.337781",
+        "Longitude": "-81.8214"
+    },
+    {
+        "ZIP Code": "29832",
+        "City": "Johnston",
+        "County": "Edgefield",
+        "Latitude": "33.824496",
+        "Longitude": "-81.79179"
+    },
+    {
+        "ZIP Code": "29834",
+        "City": "Langley",
+        "County": "Aiken",
+        "Latitude": "33.51344",
+        "Longitude": "-81.85264"
+    },
+    {
+        "ZIP Code": "29835",
+        "City": "Mc Cormick",
+        "County": "Mccormick",
+        "Latitude": "33.91509",
+        "Longitude": "-82.30548"
+    },
+    {
+        "ZIP Code": "29836",
+        "City": "Martin",
+        "County": "Allendale",
+        "Latitude": "33.080604",
+        "Longitude": "-81.49201"
+    },
+    {
+        "ZIP Code": "29838",
+        "City": "Modoc",
+        "County": "Mccormick",
+        "Latitude": "33.733657",
+        "Longitude": "-82.19251"
+    },
+    {
+        "ZIP Code": "29839",
+        "City": "Montmorenci",
+        "County": "Aiken",
+        "Latitude": "33.507335",
+        "Longitude": "-81.599198"
+    },
+    {
+        "ZIP Code": "29840",
+        "City": "Mount Carmel",
+        "County": "Mccormick",
+        "Latitude": "33.997908",
+        "Longitude": "-82.51411"
+    },
+    {
+        "ZIP Code": "29841",
+        "City": "North Augusta",
+        "County": "Aiken",
+        "Latitude": "33.517435",
+        "Longitude": "-81.94945"
+    },
+    {
+        "ZIP Code": "29842",
+        "City": "Beech Island",
+        "County": "Aiken",
+        "Latitude": "33.443562",
+        "Longitude": "-81.87994"
+    },
+    {
+        "ZIP Code": "29843",
+        "City": "Olar",
+        "County": "Bamberg",
+        "Latitude": "33.190068",
+        "Longitude": "-81.18294"
+    },
+    {
+        "ZIP Code": "29844",
+        "City": "Parksville",
+        "County": "Mccormick",
+        "Latitude": "33.7802",
+        "Longitude": "-82.21285"
+    },
+    {
+        "ZIP Code": "29845",
+        "City": "Plum Branch",
+        "County": "Mccormick",
+        "Latitude": "33.84674",
+        "Longitude": "-82.23442"
+    },
+    {
+        "ZIP Code": "29846",
+        "City": "Sycamore",
+        "County": "Allendale",
+        "Latitude": "33.047132",
+        "Longitude": "-81.22185"
+    },
+    {
+        "ZIP Code": "29847",
+        "City": "Trenton",
+        "County": "Edgefield",
+        "Latitude": "33.695638",
+        "Longitude": "-81.85192"
+    },
+    {
+        "ZIP Code": "29848",
+        "City": "Troy",
+        "County": "Greenwood",
+        "Latitude": "33.980222",
+        "Longitude": "-82.19013"
+    },
+    {
+        "ZIP Code": "29849",
+        "City": "Ulmer",
+        "County": "Allendale",
+        "Latitude": "33.092403",
+        "Longitude": "-81.2209"
+    },
+    {
+        "ZIP Code": "29850",
+        "City": "Vaucluse",
+        "County": "Aiken",
+        "Latitude": "33.619604",
+        "Longitude": "-81.81628"
+    },
+    {
+        "ZIP Code": "29851",
+        "City": "Warrenville",
+        "County": "Aiken",
+        "Latitude": "33.530409",
+        "Longitude": "-81.81743"
+    },
+    {
+        "ZIP Code": "29853",
+        "City": "Williston",
+        "County": "Barnwell",
+        "Latitude": "33.405948",
+        "Longitude": "-81.42936"
+    },
+    {
+        "ZIP Code": "29856",
+        "City": "Windsor",
+        "County": "Aiken",
+        "Latitude": "33.475916",
+        "Longitude": "-81.51935"
+    },
+    {
+        "ZIP Code": "29860",
+        "City": "North Augusta",
+        "County": "Edgefield",
+        "Latitude": "33.59107",
+        "Longitude": "-81.96445"
+    },
+    {
+        "ZIP Code": "29861",
+        "City": "North Augusta",
+        "County": "Aiken",
+        "Latitude": "33.53773",
+        "Longitude": "-81.599891"
+    },
+    {
+        "ZIP Code": "29899",
+        "City": "Mc Cormick",
+        "County": "Mccormick",
+        "Latitude": "33.83562",
+        "Longitude": "-82.319983"
+    },
+    {
+        "ZIP Code": "29901",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.424353",
+        "Longitude": "-80.565343"
+    },
+    {
+        "ZIP Code": "29902",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.421594",
+        "Longitude": "-80.67505"
+    },
+    {
+        "ZIP Code": "29903",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.443974",
+        "Longitude": "-80.735245"
+    },
+    {
+        "ZIP Code": "29904",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.390605",
+        "Longitude": "-80.661027"
+    },
+    {
+        "ZIP Code": "29905",
+        "City": "Parris Island",
+        "County": "Beaufort",
+        "Latitude": "32.340119",
+        "Longitude": "-80.689041"
+    },
+    {
+        "ZIP Code": "29906",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.445712",
+        "Longitude": "-80.74845"
+    },
+    {
+        "ZIP Code": "29907",
+        "City": "Beaufort",
+        "County": "Beaufort",
+        "Latitude": "32.447677",
+        "Longitude": "-80.642097"
+    },
+    {
+        "ZIP Code": "29909",
+        "City": "Okatie",
+        "County": "Beaufort",
+        "Latitude": "32.312621",
+        "Longitude": "-80.915532"
+    },
+    {
+        "ZIP Code": "29910",
+        "City": "Bluffton",
+        "County": "Beaufort",
+        "Latitude": "32.241315",
+        "Longitude": "-80.87404"
+    },
+    {
+        "ZIP Code": "29911",
+        "City": "Brunson",
+        "County": "Hampton",
+        "Latitude": "32.928131",
+        "Longitude": "-81.16602"
+    },
+    {
+        "ZIP Code": "29912",
+        "City": "Coosawhatchie",
+        "County": "Jasper",
+        "Latitude": "32.488929",
+        "Longitude": "-80.989142"
+    },
+    {
+        "ZIP Code": "29913",
+        "City": "Crocketville",
+        "County": "Hampton",
+        "Latitude": "32.929902",
+        "Longitude": "-81.184627"
+    },
+    {
+        "ZIP Code": "29914",
+        "City": "Dale",
+        "County": "Beaufort",
+        "Latitude": "32.552652",
+        "Longitude": "-80.677001"
+    },
+    {
+        "ZIP Code": "29915",
+        "City": "Daufuskie Island",
+        "County": "Beaufort",
+        "Latitude": "32.156011",
+        "Longitude": "-80.787899"
+    },
+    {
+        "ZIP Code": "29916",
+        "City": "Early Branch",
+        "County": "Hampton",
+        "Latitude": "32.72765",
+        "Longitude": "-80.94972"
+    },
+    {
+        "ZIP Code": "29918",
+        "City": "Estill",
+        "County": "Hampton",
+        "Latitude": "32.744565",
+        "Longitude": "-81.24794"
+    },
+    {
+        "ZIP Code": "29920",
+        "City": "Saint Helena Island",
+        "County": "Beaufort",
+        "Latitude": "32.371697",
+        "Longitude": "-80.5503"
+    },
+    {
+        "ZIP Code": "29921",
+        "City": "Furman",
+        "County": "Hampton",
+        "Latitude": "32.67553",
+        "Longitude": "-81.17208"
+    },
+    {
+        "ZIP Code": "29922",
+        "City": "Garnett",
+        "County": "Hampton",
+        "Latitude": "32.593295",
+        "Longitude": "-81.24035"
+    },
+    {
+        "ZIP Code": "29923",
+        "City": "Gifford",
+        "County": "Hampton",
+        "Latitude": "32.866195",
+        "Longitude": "-81.24215"
+    },
+    {
+        "ZIP Code": "29924",
+        "City": "Hampton",
+        "County": "Hampton",
+        "Latitude": "32.868065",
+        "Longitude": "-81.10998"
+    },
+    {
+        "ZIP Code": "29925",
+        "City": "Hilton Head Island",
+        "County": "Beaufort",
+        "Latitude": "32.21319",
+        "Longitude": "-80.799698"
+    },
+    {
+        "ZIP Code": "29926",
+        "City": "Hilton Head Island",
+        "County": "Beaufort",
+        "Latitude": "32.226713",
+        "Longitude": "-80.74325"
+    },
+    {
+        "ZIP Code": "29927",
+        "City": "Hardeeville",
+        "County": "Jasper",
+        "Latitude": "32.277216",
+        "Longitude": "-81.07847"
+    },
+    {
+        "ZIP Code": "29928",
+        "City": "Hilton Head Island",
+        "County": "Beaufort",
+        "Latitude": "32.159476",
+        "Longitude": "-80.75144"
+    },
+    {
+        "ZIP Code": "29929",
+        "City": "Islandton",
+        "County": "Colleton",
+        "Latitude": "32.934459",
+        "Longitude": "-80.91937"
+    },
+    {
+        "ZIP Code": "29931",
+        "City": "Lobeco",
+        "County": "Beaufort",
+        "Latitude": "32.538432",
+        "Longitude": "-80.702594"
+    },
+    {
+        "ZIP Code": "29932",
+        "City": "Luray",
+        "County": "Hampton",
+        "Latitude": "32.818844",
+        "Longitude": "-81.30864"
+    },
+    {
+        "ZIP Code": "29933",
+        "City": "Miley",
+        "County": "Hampton",
+        "Latitude": "32.788773",
+        "Longitude": "-81.126913"
+    },
+    {
+        "ZIP Code": "29934",
+        "City": "Pineland",
+        "County": "Jasper",
+        "Latitude": "32.602042",
+        "Longitude": "-81.12453"
+    },
+    {
+        "ZIP Code": "29935",
+        "City": "Port Royal",
+        "County": "Beaufort",
+        "Latitude": "32.382453",
+        "Longitude": "-80.69009"
+    },
+    {
+        "ZIP Code": "29936",
+        "City": "Ridgeland",
+        "County": "Jasper",
+        "Latitude": "32.493936",
+        "Longitude": "-80.97461"
+    },
+    {
+        "ZIP Code": "29938",
+        "City": "Hilton Head Island",
+        "County": "Beaufort",
+        "Latitude": "32.390605",
+        "Longitude": "-80.661027"
+    },
+    {
+        "ZIP Code": "29939",
+        "City": "Scotia",
+        "County": "Hampton",
+        "Latitude": "32.669734",
+        "Longitude": "-81.2447"
+    },
+    {
+        "ZIP Code": "29940",
+        "City": "Seabrook",
+        "County": "Beaufort",
+        "Latitude": "32.566537",
+        "Longitude": "-80.74987"
+    },
+    {
+        "ZIP Code": "29941",
+        "City": "Sheldon",
+        "County": "Beaufort",
+        "Latitude": "32.586005",
+        "Longitude": "-80.82739"
+    },
+    {
+        "ZIP Code": "29943",
+        "City": "Tillman",
+        "County": "Jasper",
+        "Latitude": "32.458459",
+        "Longitude": "-81.10567"
+    },
+    {
+        "ZIP Code": "29944",
+        "City": "Varnville",
+        "County": "Hampton",
+        "Latitude": "32.822292",
+        "Longitude": "-81.05236"
+    },
+    {
+        "ZIP Code": "29945",
+        "City": "Yemassee",
+        "County": "Hampton",
+        "Latitude": "32.681058",
+        "Longitude": "-80.83348"
+    }
+]
